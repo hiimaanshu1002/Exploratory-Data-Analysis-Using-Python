@@ -6,20 +6,20 @@ The dataset used in this project is the Heart Disease UCI dataset, which contain
 
 The dataset includes features such as:
 
-Age
-Sex
-Hospital Location
-Chest pain type
-Resting blood pressure
-Cholesterol(mg/dl)
-Fasting blood sugar
-Resting ECG results
-Maximum heart rate achieved
-Exercise-induced angina
-ST depression (oldpeak)
-Slope of ST segment
-Number of major vessels blocked
-Thalassemia
+-Age
+-Sex
+-Hospital Location
+-Chest pain type
+-Resting blood pressure
+-Cholesterol(mg/dl)
+-Fasting blood sugar
+-Resting ECG results
+-Maximum heart rate achieved
+-Exercise-induced angina
+-ST depression (oldpeak)
+-Slope of ST segment
+-Number of major vessels blocked
+-Thalassemia
 
 
 ## Objectives:
